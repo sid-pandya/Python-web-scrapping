@@ -5,6 +5,5 @@ For that, we need to import some libraries mentioned below.
  
 2. ```pip install bs4```
 
-
 For instagram Profile Picture  
 3. ```pip install instaloader ```
